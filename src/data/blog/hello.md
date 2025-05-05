@@ -1,12 +1,11 @@
 ---
 pubDatetime: 2025-03-08T08:18:19.693Z
-title: AstroPaper 5.0
-slug: astro-paper-v5
+title: Hellow World
+slug: hello-world
 featured: true
-ogImage: ../../../assets/images/AstroPaper-v5.png
 tags:
-  - release
-description: "AstroPaper v5: keep the clean look, updates under the hood."
+  - hello
+description: "Hello"
 ---
 
 At last, the long-awaited AstroPaper v5 is finally here. AstroPaper v5 keeps the same minimal & clean look, but comes with significant updates under the hood.
